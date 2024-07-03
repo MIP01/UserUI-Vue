@@ -1,0 +1,22 @@
+.user-list-container {
+    width: 300px;
+    margin-top: 20px;
+  }
+  
+  .user-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-list-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    cursor: pointer;
+    background-color: #f9f9f9;
+  }
+  
+  .user-list-item:hover {
+    background-color: #e9e9e9;
+  }
+  
